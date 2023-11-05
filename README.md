@@ -13,12 +13,6 @@
 
 - **Scrum:** Experiencia trabajando con la metodología ágil Scrum, participando en equipos colaborativos y entregando proyectos de manera iterativa.
 
-<h2>🌐 Proyectos Destacados</h2> 
-
-- **Proyecto A:** Descripción breve del proyecto y las tecnologías utilizadas.
-- **Proyecto B:** Descripción breve del proyecto y las tecnologías utilizadas.
-- **Proyecto C:** Descripción breve del proyecto y las tecnologías utilizadas.
-
 <h2>📚 Habilidades Adicionales</h2> 
 
 - Resolución de Problemas
